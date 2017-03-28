@@ -1,0 +1,39 @@
+body{
+    margin:0;
+    font-family: 'Gloria Hallelujah', cursive;
+    background: url(http://1-background.com/images/stars-1/star-space-tile.jpg);
+}
+.main-nav{
+    height: 60px;
+    width: 100vw;
+    position: fixed;
+    border-bottom: solid #000;
+    background-color: #ffbff7;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX_ijtBweVN4hBlgd5e_tpOJAU0x10IXpsB_NNbKiUKJXp_AnP")
+}
+.container{
+    max-width: 80%;
+    margin:0 auto;
+}
+.logo{
+    height: 60px;
+}
+.nav-list{
+    float: right;
+    list-style: none;
+}
+.nav-item{
+    float: left;
+    margin-left: 15px;
+    font-family: "Avant Garde", Avantgarde, sans-serif;
+    font-weight: bold;
+    
+}
+.nav-link{
+    text-decoration: none;
+    color: #000;
+}
+.nav-link:hover{
+    color: #fff;
+    border-bottom: double;
+}

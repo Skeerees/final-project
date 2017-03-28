@@ -1,0 +1,124 @@
+body{
+    margin:0;
+    font-family: 'Gloria Hallelujah', cursive;
+    background: url(http://1-background.com/images/stars-1/star-space-tile.jpg);
+}
+.top{
+    float: left;
+    width: 50%;
+}
+.top1{
+    width: 50%;
+    margin: 0;
+}
+.test{
+    text-align: center;
+    padding-top: 60px;
+    margin: 0 auto;
+    background: pink;
+    width: 300px;
+    border: solid 3px #000;
+    margin-bottom: 20px;
+    height: 1.5em;
+    border-radius: 10px;
+}
+.test1{
+    text-align: center;
+    padding-top: 60px;
+    margin: 0 auto;
+    background: pink;
+    width: 100px;
+    border: solid 3px #000;
+    margin-bottom: 20px;
+    height: 1.5em;
+    margin-left: 890px;
+    border-radius: 10px;
+}
+.more1{
+    text-align: center;
+    margin: 0 auto;
+    background: pink;
+    width: 3em;
+    border: solid 3px #000;
+    height: 1.5em;
+    border-radius: 10px;
+}
+.more2{
+    border: solid 3px #000;
+    text-align: center;
+    width: 80%;
+    margin: 20px auto;
+    background: pink;
+    height: 50%;
+    margin-top: 0px;
+    clear:left;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+.vid{
+    width: 540px;
+    margin: 20px auto;
+    float: left;
+    margin-left: 65px;
+}
+.p1{
+    border: solid 3px #000;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background: pink;
+    font-size: 1.5em;
+    height: 1778px;
+    margin-bottom: 0px;
+    text-indent: 50px;
+    border-radius: 10px;
+}
+.p2{
+    border: solid 3px #000;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    background: pink;
+    height: 50%;
+    margin-top: 20px;
+    margin-left: 100%;
+    border-radius: 10px;
+}
+.img{
+    width:500px;
+}
+.main-nav{
+    height: 60px;
+    width: 100vw;
+    position: fixed;
+    border-bottom: solid #000;
+    background-color: #ffbff7;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX_ijtBweVN4hBlgd5e_tpOJAU0x10IXpsB_NNbKiUKJXp_AnP")
+}
+.container{
+    max-width: 80%;
+    margin:0 auto;
+}
+.logo{
+    height: 60px;
+}
+.nav-list{
+    float: right;
+    list-style: none;
+}
+.nav-item{
+    float: left;
+    margin-left: 15px;
+    font-family: "Avant Garde", Avantgarde, sans-serif;
+    font-weight: bold;
+    
+}
+.nav-link{
+    text-decoration: none;
+    color: #000;
+}
+.nav-link:hover{
+    color: #fff;
+    border-bottom: double;
+}
